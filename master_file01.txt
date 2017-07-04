@@ -1,2 +1,1 @@
 master_file01.txt content
-master_file01.txt content
